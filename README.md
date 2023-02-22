@@ -32,7 +32,7 @@ You can download the dataset from [here](https://drive.google.com/uc?id=1ehyrYBQ
 ### Results
 ![Result](result.png)
 
-
+I choose CNN+LSTM based model as the final choice due to fairly decent accuracy considering the type of data as well the no. of parameters as I wanted my model to be light weight in nature.
 
 ## Contact
 Created by [@ns7893985] - feel free to contact me!
